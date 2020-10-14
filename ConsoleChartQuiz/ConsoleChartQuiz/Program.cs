@@ -16,7 +16,7 @@ namespace ConsoleChartQuiz
             var categories = header.Split('\t');
             var groupColumnIdx = Array.IndexOf(categories, args[0]);
             var numericColumnIdx = Array.IndexOf(categories, args[1]);
-            var outputLimit = int.Parse(args[2]);
+            var outputLimit = args.Length > 2 ? int.Parse(args[2]) : -1;
             
             // Read the content of stdin
             while (true)
