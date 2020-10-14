@@ -16,6 +16,7 @@ namespace ConsoleChartQuiz
             var categories = header.Split('\t');
             var groupColumnIdx = Array.IndexOf(categories, args[0]);
             var numericColumnIdx = Array.IndexOf(categories, args[1]);
+            var outputLimit = int.Parse(args[2]);
             
             // Read the content of stdin
             while (true)
@@ -34,9 +35,9 @@ namespace ConsoleChartQuiz
                 .Select(entry => new ChartEntry(entry.Key, entry.Sum(e => e.EntryCount)))
                 .OrderByDescending(entry => entry.EntryCount)
                 .ToList();
-            
+
             var highestAttackCount = groupedEntries.Max(entry => entry.EntryCount);
-            foreach (var entry in groupedEntries)
+            foreach (var entry in ((outputLimit != -1) ? groupedEntries.Take(outputLimit) : groupedEntries))
             {
                 var percentage = (int) ((double) entry.EntryCount / highestAttackCount * 100);
                 Console.Write($"{entry.EntryTitle,40} |");
