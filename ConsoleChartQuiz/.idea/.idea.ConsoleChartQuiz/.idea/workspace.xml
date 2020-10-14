@@ -23,7 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88dd2cef-5fe7-493e-a670-3b487c2acfd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ConsoleChartQuiz/ChartEntry.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleChartQuiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleChartQuiz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleChartQuiz/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleChartQuiz/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleChartQuiz/bin/Debug/net5.0/ConsoleChartQuiz.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleChartQuiz/bin/Debug/net5.0/ConsoleChartQuiz.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleChartQuiz/bin/Debug/net5.0/ConsoleChartQuiz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleChartQuiz/bin/Debug/net5.0/ConsoleChartQuiz.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleChartQuiz/obj/Debug/net5.0/ConsoleChartQuiz.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleChartQuiz/obj/Debug/net5.0/ConsoleChartQuiz.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleChartQuiz/obj/Debug/net5.0/ConsoleChartQuiz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleChartQuiz/obj/Debug/net5.0/ConsoleChartQuiz.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +101,7 @@
       <updated>1602678595025</updated>
       <workItem from="1602678597771" duration="1000" />
       <workItem from="1602678626861" duration="6231000" />
+      <workItem from="1602685046320" duration="1804000" />
     </task>
     <servers />
   </component>
@@ -114,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

@@ -39,9 +39,9 @@ namespace ConsoleChartQuiz
             foreach (var entry in groupedEntries)
             {
                 var percentage = (int) ((double) entry.EntryCount / highestAttackCount * 100);
-                Console.Write($"{entry.EntryTitle,-40} |");
+                Console.Write($"{entry.EntryTitle,40} |");
 
-                Console.BackgroundColor = ConsoleColor.DarkRed;
+                Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine($"{GetBarForPercentage(percentage)}");
                 Console.ForegroundColor = ConsoleColor.White;
             }
