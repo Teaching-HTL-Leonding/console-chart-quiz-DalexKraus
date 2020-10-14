@@ -1,0 +1,16 @@
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.exe
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.deps.json
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.runtimeconfig.json
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.runtimeconfig.dev.json
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.dll
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ref\ConsoleChartQuiz.dll
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.pdb
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.csprojAssemblyReference.cache
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.AssemblyInfo.cs
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.dll
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ref\ConsoleChartQuiz.dll
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.pdb
+C:\Users\David\Downloads\console-chart-quiz-DalexKraus\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.genruntimeconfig.cache
